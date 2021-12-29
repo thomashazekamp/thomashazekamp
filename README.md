@@ -1,3 +1,3 @@
 ### Hi there :wave:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomashazekamp&langs_count=5)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomashazekamp&theme=tokyonight" />
