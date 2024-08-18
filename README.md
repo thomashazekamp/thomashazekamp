@@ -2,7 +2,7 @@
 
 ---
 
-🌊 My name is Thomas and currently studying Computer Science at Dublin City University.  
+🌊 Recent graduate from Dublin City University with a Computer Science degree!
 
 ⚜️ Connect with me on LinkedIn! www.linkedin.com/in/thomashazekamp  
 
