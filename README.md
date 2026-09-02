@@ -2,9 +2,10 @@
 
 ---
 
-🌊 Recent graduate from Dublin City University with a Computer Science degree!
+🌊 Graduated in 2024 from Dublin City University with a Computer Science degree!
+
+⚡ Previous Software Engineer at General Motors, current Software Engineer at Accenture
 
 ⚜️ Connect with me on LinkedIn! www.linkedin.com/in/thomashazekamp  
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomashazekamp&theme=dracula&langs_count=10&layout=compact" />
